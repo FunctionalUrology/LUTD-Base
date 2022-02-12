@@ -11,5 +11,3 @@ If LUTD-Base helps you in any way, please cite the following articles:
 
 * Gheinani, Ali Hashemi et al. “Characterization of miRNA-regulated networks, hubs of signaling, and biomarkers in obstruction-induced bladder dysfunction.” JCI insight vol. 2,2 e89560. 26 Jan. 2017, doi: [10.1172/jci.insight.89560](https://insight.jci.org/articles/view/89560).
 * Gheinani, Ali Hashemi et al. “Integrated mRNA-miRNA transcriptome analysis of bladder biopsies from patients with bladder pain syndrome identifies signaling alterations contributing to the disease pathogenesis.” BMC urology vol. 21,1 172. 7 Dec. 2021, doi: [10.1186/s12894-021-00934-0](https://bmcurol.biomedcentral.com/articles/10.1186/s12894-021-00934-0).
-
-[I'm an inline-style link](https://www.google.com)
